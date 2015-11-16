@@ -22,7 +22,7 @@ paginate:         5
 # Custom vars
 linkedin:         https://www.linkedin.com/in/brianheng
 
-version:          2.1.0
+version:          1.0
 
 github:
   repo:           https://github.com/wukaiyuan?tab=repositories
