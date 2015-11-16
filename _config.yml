@@ -7,20 +7,22 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Brian Eng
+tagline:          'Brian Eng – Product Growth Scientist'
+description:      'The triple-threat – product manager, growth specialist, data analyst'
+url:              http://wukaiyuan.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Brian Eng'
+  url:            https://twitter.com/wukaiyuan
 
 paginate:         5
 
 # Custom vars
+linkedin:         https://www.linkedin.com/in/brianheng
+
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/wukaiyuan?tab=repositories
