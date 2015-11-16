@@ -1,4 +1,4 @@
-Parse.initialize('p6X0oJ31rtiuIWtUeU2r72gA9nd6uSkVHrpH5VaQ', 'UVZnUyaNF8HfmgL47VBR8R6BDkB4KSWnUGOSdGf4');
+Parse.initialize(app_key, js_key);
 var Tempdata = Parse.Object.extend("Tempdata");
 var query = new Parse.Query(Tempdata);
 query.descending("createdAt");
