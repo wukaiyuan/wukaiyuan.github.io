@@ -5,7 +5,7 @@ query.descending("createdAt");
 query.limit(720);
 query.find({
   success: function(results) {
-    var svg = dimple.newSvg("#chartContainer", "80%", "80%");
+    var svg = dimple.newSvg("#chartContainer", "100%", "100%");
     var jsonArray = [];
     for(var i = 0; i < results.length; i++) {
        jsonArray.push(results[i].toJSON());
