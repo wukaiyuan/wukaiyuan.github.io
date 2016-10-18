@@ -11,13 +11,8 @@ Hi, I'm Brian.
 * Programming
 * Business
 
-## My hobbies
-* Music production
-* Hip hop dance
-* Tai chi
-* Chinese medicine
-
 Places you can find me:
+![LinkedIn](http://wukaiyuan.com/social-1_round-linkedin.svg)
 
-* [wukaiyuan](https://instagram.com/wukaiyuan)
-* [@wukaiyuan](https://twitter.com/wukaiyuan)
+* [Instagram](https://instagram.com/wukaiyuan)
+* [Twitter](https://twitter.com/wukaiyuan)
