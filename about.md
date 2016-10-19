@@ -3,16 +3,15 @@ layout: page
 title: About
 ---
 
-Hi, I'm Brian.
+Always be learning. 
 
 ## My interests
 
-* Data Science
-* Programming
-* Business
+* Data science
+* Artificial intelligence
+* Product management
+* Mobile apps
 
 Places you can find me:
-<div class="blah"><a href="http://www.linkedin.com/in/brianheng"><img src="http://wukaiyuan.github.io/wukaiyuan.github.io/public/social-1_round-linkedin.svg" width="20"/></a><a href="http://github.com/wukaiyuan"><img src="http://wukaiyuan.github.io/wukaiyuan.github.io/public/social-1_round-github.svg" width="20"/></a></div>
-<img src="http://wukaiyuan.github.io/wukaiyuan.github.io/public/social-1_round-linkedin.svg" width="30"/><img src="http://wukaiyuan.github.io/wukaiyuan.github.io/public/social-1_round-github.svg" width="30"/>
-[![LinkedIn](http://wukaiyuan.github.io/wukaiyuan.github.io/public/social-1_round-linkedin.svg)](http://www.linkedin.com/in/brianheng)
-[![Github](http://wukaiyuan.github.io/wukaiyuan.github.io/public/social-1_round-github.svg)](http://github.com/wukaiyuan)
+[![LinkedIn](http://wukaiyuan.github.io/wukaiyuan.github.io/public/social-1_round-linkedin.svg) LinkedIn](http://www.linkedin.com/in/brianheng)
+[![Github](http://wukaiyuan.github.io/wukaiyuan.github.io/public/social-1_round-github.svg) Github](http://github.com/wukaiyuan)
