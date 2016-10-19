@@ -12,4 +12,6 @@ Hi, I'm Brian.
 * Business
 
 Places you can find me:
-[![LinkedIn](http://wukaiyuan.github.io/wukaiyuan.github.io/public/social-1_round-linkedin.svg)](http://www.linkedin.com/in/brianheng) [![Github](http://wukaiyuan.github.io/wukaiyuan.github.io/public/social-1_round-github.svg)](http://github.com/wukaiyuan)
+<a href="http://www.linkedin.com/in/brianheng"><img src="http://wukaiyuan.github.io/wukaiyuan.github.io/public/social-1_round-linkedin.svg"></a><a href="http://github.com/wukaiyuan"><img src="http://wukaiyuan.github.io/wukaiyuan.github.io/public/social-1_round-github.svg"></a>
+[![LinkedIn](http://wukaiyuan.github.io/wukaiyuan.github.io/public/social-1_round-linkedin.svg)](http://www.linkedin.com/in/brianheng) 
+[![Github](http://wukaiyuan.github.io/wukaiyuan.github.io/public/social-1_round-github.svg)](http://github.com/wukaiyuan)
