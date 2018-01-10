@@ -82,7 +82,7 @@ First you need to know, what is the current rate for the metric you’re looking
 ### [Minimum detectable effect](https://help.optimizely.com/Ideate_and_Hypothesize/Use_minimum_detectable_effect_to_prioritize_tests)
 Minimum detectable effect can be thought of like resolution. If your minimum detectable effect is 5%, you'll only be able to measure that your treatment is actually better than the control if the difference is greater than 5%. What if you want to detect a smaller change, like 1%? You’ll need a larger sample size.
 
-![Power analysis graph](img/power_minimal_detectableeffectandbucketsizeestimationinabtests95.thumb.1280.1280.png)
+![Power analysis graph](http://wukaiyuan.github.io/wukaiyuan.github.io/public/power_minimal_detectableeffectandbucketsizeestimationinabtests95.thumb.1280.1280.png)
 
 In hypothesis testing, there’s a relationship that defines the significance level (typically 95%), the statistical power (typically 80%) and the minimum detectable effect your hypothesis can distinguish. The smaller your minimum detectable effect, the larger your required sample size.
  
