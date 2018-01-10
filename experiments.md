@@ -3,8 +3,6 @@ layout: page
 title: A/B testing resources
 ---
 
-# A/B testing resources
-
 ## Frameworks
 * [Planout](https://facebook.github.io/planout/)
 * [Wasabi](https://github.com/intuit/wasabi)

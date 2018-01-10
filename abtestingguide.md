@@ -3,7 +3,6 @@ layout: page
 title: Running Experiments
 ---
 
-# Running Experiments
 An A/B Testing Guide
 
 ## Overview
