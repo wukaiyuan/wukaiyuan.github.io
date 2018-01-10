@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A/B testing resources
+title: A/B Testing Resources
 ---
 
 ## Frameworks
