@@ -3,7 +3,7 @@ layout: page
 title: Running Experiments
 ---
 
-An A/B Testing Guide
+## An A/B Testing Guide
 
 ## Overview
 A/B testing as a process has been adopted across the tech industry and as it has become ubiquitous, it’s led to many engineers and PMs understanding what it is in concept, but not exactly how it’s used in practice to get meaningful results. This document hopes to clarify some details that are often hidden when talking about A/B tests and why it’s important to pay attention to the details of the setup process. Getting the details right ensures that your experiment is testing a metric it can meaningfully impact within a reasonable timeframe.
