@@ -232,7 +232,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (= 172)
+  github-pages
+  minima
 
 BUNDLED WITH
    1.16.0

@@ -11,8 +11,7 @@ tagline:          '– Product Growth Scientist'
 description:      'Data scientist at Twitch'
 url:              http://wukaiyuan.com
 baseurl:          /
-theme: jekyll-theme-minimal
-show_downloads: "false"
+theme: minima
 
 author:
   name:           'Brian Eng'
