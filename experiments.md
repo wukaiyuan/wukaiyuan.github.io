@@ -79,6 +79,9 @@ title: A/B Testing Resources
 ### Facebook
 * [Uncertainty in online experiments with dependent data: An evaluation of bootstrap methods](http://chbrown.github.io/kdd-2013-usb/kdd/p1303.pdf)
 
+### DoorDash
+* [Meet Dash-AB — The Statistics Engine of Experimentation at DoorDash](https://doordash.engineering/2022/05/24/meet-dash-ab-the-statistics-engine-of-experimentation-at-doordash/)
+
 ### Other
 * [A/B Testing using the negative binomial distribution in an internet search application](http://www.tau.ac.il/~saharon/papers/AB%20testing%20with%20NB%20distribution%20-%20revision.pdf)
 * [Confidence intervals for AB-test](https://arxiv.org/pdf/1501.07768.pdf)
