@@ -44,6 +44,12 @@ title: A/B Testing Resources
 ### Stitch Fix
 * [So, You Need a Statistically Significant Sample?](http://multithreaded.stitchfix.com/blog/2015/05/26/significant-sample/)
 
+### Booking.com
+* [How Booking.com increases the power of online experiments with CUPED](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d)
+
+### Spotify
+* [Comparing quantiles at scale in online A/B-testing](https://engineering.atspotify.com/2022/03/comparing-quantiles-at-scale-in-online-a-b-testing/)
+
 ## Papers
 ### Microsoft - almost all available from their excellent [website](http://exp-platform.com)
 #### Best papers
