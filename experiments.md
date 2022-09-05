@@ -3,6 +3,9 @@ layout: page
 title: A/B Testing Resources
 ---
 
+## Recommended Platforms
+* [Eppo](https://geteppo.com)
+
 ## Frameworks
 * [Planout](https://facebook.github.io/planout/)
 * [Wasabi](https://github.com/intuit/wasabi)
@@ -92,6 +95,8 @@ title: A/B Testing Resources
 * [A/B Testing using the negative binomial distribution in an internet search application](http://www.tau.ac.il/~saharon/papers/AB%20testing%20with%20NB%20distribution%20-%20revision.pdf)
 * [Confidence intervals for AB-test](https://arxiv.org/pdf/1501.07768.pdf)
 * [Econometrics of Randomized Experiments](https://arxiv.org/pdf/1607.00698.pdf)
+* [A/B testing with limited data](http://elem.com/~btilly/ab-testing-multiple-looks/part2-limited-data.html)
+* [A/B testing using the Beta distribution](http://sl8r000.github.io/ab_testing_statistics//use_the_beta_distribution/)
 
 ## Good ideas for A/B test experiments from the papers
 * Combined experiments. Per-user with x% chance of seeing treatment
